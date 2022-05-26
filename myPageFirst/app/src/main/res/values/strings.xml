@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">myPageFirst</string>
+    <string-array name="disabledSpinner">
+        <item>시각장애</item>
+        <item>청각장애</item>
+        <item>지체장애</item>
+        <item>언어장애</item>
+        <item>뇌병변</item>
+    </string-array>
+
+    <string-array name="disabledClass">
+        <item>1급</item>
+        <item>2급</item>
+        <item>3급</item>
+        <item>4급</item>
+        <item>5급</item>
+    </string-array>
+</resources>
